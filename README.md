@@ -15,7 +15,7 @@
 
 ---
 # ED_EN_8220337_8220307
-Capture the flag in java
+Jogo 'Capture the Flag' desenvolvido em Java. Implementação de Estruturas de Dados personalizadas (ADTs) sem recurso a Java Collections.
 
 ## Como executar
 ```
